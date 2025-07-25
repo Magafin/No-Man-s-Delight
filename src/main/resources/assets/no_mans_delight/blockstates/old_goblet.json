@@ -1,0 +1,96 @@
+{
+  "variants": {
+    "effigies=1,facing=north": [
+      {
+        "model": "no_mans_delight:block/old_goblet"
+      }
+    ],
+    "effigies=1,facing=east": [
+      {
+        "model": "no_mans_delight:block/old_goblet",
+        "y": 90
+      }
+    ],
+    "effigies=1,facing=west": [
+      {
+        "model": "no_mans_delight:block/old_goblet",
+        "y": 270
+      }
+    ],
+    "effigies=1,facing=south": [
+      {
+        "model": "no_mans_delight:block/old_goblet",
+        "y": 180
+      }
+    ],
+    "effigies=2,facing=north": [
+      {
+        "model": "no_mans_delight:block/old_goblet_2"
+      }
+    ],
+    "effigies=2,facing=east": [
+      {
+        "model": "no_mans_delight:block/old_goblet_2",
+        "y": 90
+      }
+    ],
+    "effigies=2,facing=west": [
+      {
+        "model": "no_mans_delight:block/old_goblet_2",
+        "y": 270
+      }
+    ],
+    "effigies=2,facing=south": [
+      {
+        "model": "no_mans_delight:block/old_goblet_2",
+        "y": 180
+      }
+    ],
+    "effigies=3,facing=north": [
+      {
+        "model": "no_mans_delight:block/old_goblet_3"
+      }
+    ],
+    "effigies=3,facing=east": [
+      {
+        "model": "no_mans_delight:block/old_goblet_3",
+        "y": 90
+      }
+    ],
+    "effigies=3,facing=west": [
+      {
+        "model": "no_mans_delight:block/old_goblet_3",
+        "y": 270
+      }
+    ],
+    "effigies=3,facing=south": [
+      {
+        "model": "no_mans_delight:block/old_goblet_3",
+        "y": 180
+      }
+    ],
+    "effigies=4,facing=north": [
+      {
+        "model": "no_mans_delight:block/old_goblet_4"
+      }
+    ],
+    "effigies=4,facing=east": [
+      {
+        "model": "no_mans_delight:block/old_goblet_4",
+        "y": 90
+      }
+    ],
+    "effigies=4,facing=west": [
+      {
+        "model": "no_mans_delight:block/old_goblet_4",
+        "y": 270
+      }
+    ],
+    "effigies=4,facing=south": [
+      {
+        "model": "no_mans_delight:block/old_goblet_4",
+        "y": 180
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "no_mans_delight:antique_kitchen",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 5192,
+    "separation": 3,
+    "spacing": 15,
+    "type": "minecraft:random_spread"
+  }
+}

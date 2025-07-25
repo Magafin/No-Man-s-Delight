@@ -1,0 +1,32 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "no_mans_delight:antique_kitchen_core",
+        "projection": "rigid",
+        "processors": "nomansland:small_dungeon"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "no_mans_delight:antique_kitchen_core_vault",
+        "projection": "rigid",
+        "processors": "nomansland:small_dungeon"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "no_mans_delight:antique_kitchen_core_trap",
+        "projection": "rigid",
+        "processors": "nomansland:small_dungeon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "parent": "no_mans_delight:main/place_nmd_feast",
+  "criteria": {
+    "horse_soup": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:horse_soup"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+
+    "mushrooms_with_tomato": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:mushrooms_with_tomato"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "sweet_frog_legs": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:sweet_frog_legs"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "venison_tart": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:venison_tart"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "boiled_cave_weeds": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:boiled_cave_weeds"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "river_meal": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:river_meal"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "venison_roulade": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:plated_venison_roulade"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "stuffed_shelf_mushroom": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:stuffed_shelf_mushroom"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "pickled_brains": {
+      "conditions": {
+        "item": {
+          "items": "no_mans_delight:plated_pickled_brains"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.no_mans_delight.no_mans_restaurant.desc"
+    },
+    "frame": "challenge",
+    "icon": {
+      "count": 1,
+      "id": "no_mans_delight:venison_tart"
+    },
+    "title": {
+      "translate": "advancement.no_mans_delight.no_mans_restaurant"
+    }
+  },
+  "requirements": [
+    [
+      "horse_soup"
+    ],
+    [
+      "mushrooms_with_tomato"
+    ],
+    [
+      "sweet_frog_legs"
+    ],
+    [
+      "venison_tart"
+    ],
+    [
+      "river_meal"
+    ],
+    [
+      "venison_roulade"
+    ],
+    [
+      "stuffed_shelf_mushroom"
+    ],
+    [
+      "pickled_brains"
+    ]
+  ],
+  "rewards": {
+    "experience": 200
+  },
+  "sends_telemetry_event": true
+}

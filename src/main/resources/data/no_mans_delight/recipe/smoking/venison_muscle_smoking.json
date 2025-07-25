@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "no_mans_delight:venison_muscle"
+  },
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:cooked_venison_muscle"
+  }
+}

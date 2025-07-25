@@ -1,0 +1,23 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "nomansland:frog_leg"
+    },
+    {
+      "item": "nomansland:frog_leg"
+    },
+    {
+      "item": "nomansland:maple_syrup_bottle"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:sweet_frog_legs"
+  }
+}

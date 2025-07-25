@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABC",
+    " # "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "tag": "c:foods/milk"
+    },
+    "#": {
+      "item": "no_mans_delight:orange"
+    }
+  },
+  "result": {
+    "id": "no_mans_delight:choco_glazed_orange",
+    "count": 1
+  }
+}

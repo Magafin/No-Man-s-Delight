@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:tree_bark"
+    },
+    {
+      "item": "nomansland:trail_mix"
+    },
+    {
+      "item": "nomansland:trail_mix"
+    },
+    {
+      "item": "nomansland:maple_syrup_bottle"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "no_mans_delight:kozinak"
+  }
+}

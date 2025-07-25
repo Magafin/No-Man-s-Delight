@@ -1,0 +1,41 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"0": "no_mans_delight:block/orange_fruit",
+		"particle": "nomansland:block/no_particle"
+	},
+	"elements": [
+		{
+			"from": [5.5, 11, 6.5],
+			"to": [10.5, 15, 11.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 13, 8]},
+			"faces": {
+				"north": {"uv": [3, 2.5, 5.5, 4.5], "texture": "#0"},
+				"east": {"uv": [3, 2.5, 5.5, 4.5], "texture": "#0"},
+				"south": {"uv": [3, 2.5, 5.5, 4.5], "texture": "#0"},
+				"west": {"uv": [3, 2.5, 5.5, 4.5], "texture": "#0"},
+				"up": {"uv": [3, 5, 5.5, 7.5], "texture": "#0"},
+				"down": {"uv": [3, 8.5, 5.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 15, 9],
+			"to": [11.5, 19, 9],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 9]},
+			"faces": {
+				"north": {"uv": [2.5, 0.5, 6, 2.5], "texture": "#0"},
+				"south": {"uv": [2.5, 0.5, 6, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 15, 5.5],
+			"to": [8, 19, 12.5],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 9]},
+			"faces": {
+				"east": {"uv": [2.5, 0.5, 6, 2.5], "texture": "#0"},
+				"west": {"uv": [2.5, 0.5, 6, 2.5], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "nomansland:grilled_mushrooms"
+    },
+    {
+      "item": "nomansland:grilled_mushrooms"
+    },
+    {
+      "item": "nomansland:grilled_mushrooms"
+    },
+    {
+      "item": "farmersdelight:tomato_sauce"
+    },
+    {
+      "item": "farmersdelight:onion"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:mushrooms_with_tomato"
+  }
+}

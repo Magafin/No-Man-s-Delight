@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"0": "no_mans_delight:block/orange_fruit",
+		"particle": "nomansland:block/no_particle"
+	},
+	"elements": [
+		{
+			"from": [5, 10, 6],
+			"to": [11, 15, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.5, 13, 7.5]},
+			"faces": {
+				"north": {"uv": [13, 2, 16, 4.5], "texture": "#0"},
+				"east": {"uv": [13, 2, 16, 4.5], "texture": "#0"},
+				"south": {"uv": [13, 2, 16, 4.5], "texture": "#0"},
+				"west": {"uv": [13, 2, 16, 4.5], "texture": "#0"},
+				"up": {"uv": [13, 5, 16, 8], "texture": "#0"},
+				"down": {"uv": [13, 8.5, 16, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 15, 9],
+			"to": [12, 19, 9],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 9]},
+			"faces": {
+				"north": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"east": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"south": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"west": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"up": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"down": {"uv": [12, 12, 16, 14], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 15, 5],
+			"to": [8, 19, 13],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 17, 9]},
+			"faces": {
+				"north": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"east": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"south": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"west": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"up": {"uv": [12, 12, 16, 14], "texture": "#0"},
+				"down": {"uv": [12, 12, 16, 14], "texture": "#0"}
+			}
+		}
+	]
+}

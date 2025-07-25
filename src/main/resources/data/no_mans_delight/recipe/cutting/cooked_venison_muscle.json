@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "no_mans_delight:cooked_venison_muscle"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 2,
+        "id": "nomansland:cooked_venison"
+      }
+    },
+    {
+      "item": {
+        "count": 1,
+        "id": "minecraft:bone_meal"
+      }
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knife"
+  }
+}

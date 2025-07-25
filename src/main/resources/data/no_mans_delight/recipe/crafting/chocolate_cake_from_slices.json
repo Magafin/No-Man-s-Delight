@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "chocolate_cake",
+  "ingredients": [
+    {
+      "item": "no_mans_delight:chocolate_cake_slice"
+    },
+    {
+      "item": "no_mans_delight:chocolate_cake_slice"
+    },
+    {
+      "item": "no_mans_delight:chocolate_cake_slice"
+    },
+    {
+      "item": "no_mans_delight:chocolate_cake_slice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:chocolate_cake"
+  }
+}

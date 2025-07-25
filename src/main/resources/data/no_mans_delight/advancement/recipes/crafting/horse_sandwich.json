@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_horse_sandwich": {
+      "conditions": {
+        "items": [
+          {
+            "items": "no_mans_delight:horse_sandwich",
+            "tag": "nomansland:shelf_mushroom"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "no_mans_delight:horse_sandwich"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_horse_sandwich"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "no_mans_delight:horse_sandwich"
+    ]
+  }
+}

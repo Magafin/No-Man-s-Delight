@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "no_mans_delight:orange"
+    },
+    {
+      "item": "no_mans_delight:orange"
+    },
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "no_mans_delight:orange"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:orange_juice"
+  }
+}

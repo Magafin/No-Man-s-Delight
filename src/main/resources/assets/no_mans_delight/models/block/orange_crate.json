@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "no_mans_delight:block/orange_crate_top",
+    "bottom": "nomansland:block/storage/apple_crate_bottom",
+    "side": "no_mans_delight:block/orange_crate_side"
+  }
+}

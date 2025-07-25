@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "no_mans_delight:block/chocolate_cake_side",
+		"1": "no_mans_delight:block/chocolate_cake_top",
+		"2": "no_mans_delight:block/chocolate_cake_bottom",
+		"3": "no_mans_delight:block/chocolate_cake_inner",
+		"particle": "no_mans_delight:block/chocolate_cake_side"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [13, 8, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4, 5.5]},
+			"faces": {
+				"north": {"uv": [3, 8, 13, 16], "texture": "#0"},
+				"east": {"uv": [8, 8, 13, 16], "texture": "#0"},
+				"south": {"uv": [3, 8, 13, 16], "texture": "#3"},
+				"west": {"uv": [3, 8, 8, 16], "texture": "#0"},
+				"up": {"uv": [3, 3, 13, 8], "texture": "#1"},
+				"down": {"uv": [3, 3, 13, 8], "rotation": 180, "texture": "#2"}
+			}
+		}
+	],
+	"display": {}
+}

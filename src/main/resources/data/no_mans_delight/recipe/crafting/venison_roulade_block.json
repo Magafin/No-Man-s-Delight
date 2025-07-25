@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "no_mans_delight:cooked_venison_muscle"
+    },
+    {
+      "item": "nomansland:maple_syrup_bottle"
+    },
+    {
+      "item": "no_mans_delight:cooked_venison_muscle"
+    },
+    {
+      "item": "no_mans_delight:cooked_venison_muscle"
+    },
+    {
+      "item": "nomansland:grilled_mushrooms"
+    },
+    {
+      "item": "no_mans_delight:cooked_venison_muscle"
+    },
+    {
+      "item": "farmersdelight:rice"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:rice"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:venison_roulade_block"
+  }
+}

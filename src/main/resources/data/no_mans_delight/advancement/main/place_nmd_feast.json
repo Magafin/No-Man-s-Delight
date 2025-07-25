@@ -1,0 +1,70 @@
+{
+  "parent": "farmersdelight:main/eat_nourishing_food",
+  "criteria": {
+    "venison_roulade": {
+      "conditions": {
+        "location": [
+          {
+            "block": "no_mans_delight:venison_roulade_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "stuffed_shelf_mushroom": {
+      "conditions": {
+        "location": [
+          {
+            "block": "no_mans_delight:stuffed_shelf_mushroom_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "pickled_brains": {
+      "conditions": {
+        "location": [
+          {
+            "block": "no_mans_delight:pickled_brains_block",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    },
+    "horse_soup": {
+      "conditions": {
+        "location": [
+          {
+            "block": "no_mans_delight:horse_soup_pot",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.no_mans_delight.place_nmd_feast.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "no_mans_delight:stuffed_shelf_mushroom_block"
+    },
+    "title": {
+      "translate": "advancement.no_mans_delight.place_nmd_feast"
+    }
+  },
+  "requirements": [
+    [
+      "venison_roulade",
+      "stuffed_shelf_mushroom",
+      "pickled_brains",
+      "horse_soup"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

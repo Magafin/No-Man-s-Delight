@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#c:foods/raw_venison",
+    "#c:foods/raw_horse",
+    "#c:foods/cooked_venison",
+    "#c:foods/cooked_horse",
+    "no_mans_delight:venison_muscle",
+    "no_mans_delight:cooked_venison_muscle"
+  ]
+}

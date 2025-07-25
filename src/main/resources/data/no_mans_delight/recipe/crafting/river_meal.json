@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cooked_rice"
+    },
+    {
+      "item": "nomansland:cattail"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "tag": "c:foods/cooked_billhook_bass"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:river_meal"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "no_mans_delight:orange"
+    },
+    {
+      "type": "fluid_tag",
+      "amount": 250,
+      "fluid": "create:chocolate"
+    }
+  ],
+  "results": [
+    {
+      "item": {
+        "id": "no_mans_delight:choco_glazed_orange"
+      }
+    }
+  ]
+}

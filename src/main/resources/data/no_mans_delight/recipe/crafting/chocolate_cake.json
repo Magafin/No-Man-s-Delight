@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "chocolate_cake",
+  "key": {
+    "#": {
+      "item": "minecraft:wheat"
+    },
+    "1": {
+      "item": "minecraft:cocoa_beans"
+    },
+    "2": {
+      "item": "no_mans_delight:orange"
+    },
+    "3": {
+      "tag": "c:eggs"
+    },
+    "4": {
+      "tag": "c:foods/milk"
+    }
+  },
+  "pattern": [
+    "121",
+    "343",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:chocolate_cake"
+  }
+}

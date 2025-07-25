@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "no_mans_delight:orange_crate"
+    }
+  ],
+  "result": {
+    "id": "no_mans_delight:orange",
+    "count": 9
+  },
+  "group": "fruit_crates"
+}

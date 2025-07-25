@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "no_mans_delight:block/orange/orange_age_0"
+    },
+    "age=1": {
+      "model": "no_mans_delight:block/orange/orange_age_1"
+    },
+    "age=2": {
+      "model": "no_mans_delight:block/orange/orange_age_2"
+    },
+    "age=3": {
+      "model": "no_mans_delight:block/orange/orange_age_3"
+    },
+    "age=4": {
+      "model": "no_mans_delight:block/orange/orange_age_4"
+    }
+  }
+}

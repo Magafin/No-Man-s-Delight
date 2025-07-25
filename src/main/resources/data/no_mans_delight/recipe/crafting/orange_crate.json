@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "no_mans_delight:orange"
+    }
+  },
+  "result": {
+    "id": "no_mans_delight:orange_crate",
+    "count": 1
+  },
+  "group": "fruit_crates"
+}

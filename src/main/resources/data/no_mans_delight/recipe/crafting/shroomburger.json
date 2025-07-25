@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "nomansland:shelf_mushroom"
+    },
+    {
+      "tag": "c:foods/cooked_venison"
+    },
+    {
+      "tag": "c:foods/leafy_green"
+    },
+    {
+      "item": "nomansland:walnuts"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "no_mans_delight:shroomburger"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "parent": "no_mans_delight:main/place_nmd_feast",
+  "criteria": {
+    "pickled_brains_use": {
+      "trigger": "minecraft:item_used_on_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": [
+                "minecraft:bowl"
+              ]
+            }
+          },
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "block": {
+                "blocks": ["no_mans_delight:pickled_brains_block"]
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancement.no_mans_delight.pickled_brains_use.desc"
+    },
+    "icon": {
+      "count": 1,
+      "id": "no_mans_delight:pickled_brains_block"
+    },
+    "title": {
+      "translate": "advancement.no_mans_delight.pickled_brains_use"
+    }
+  },
+  "requirements": [
+    [
+      "pickled_brains_use"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
